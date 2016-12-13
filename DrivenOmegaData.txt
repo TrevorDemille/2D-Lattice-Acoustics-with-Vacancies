@@ -1,0 +1,2 @@
+    DispTime     Amplitude    Vac. Size     Vac. Num      Far Avg    Total Avg    Omega
+5.049505e-01 2.000000e-01 3.000000e+00 1.000000e+00 8.406533e-04 2.209311e-03 2.000000e+00 
